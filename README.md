@@ -4,9 +4,6 @@ This is the official repository for the paper:
 >Bassek, M. Müller-Budack, E., Ewerth, R., Weber, H., Rein, R., Memmert, D. (2024). An integrated dataset of
 > synchronized spatiotemporal and event data in elite soccer. In submission.
 
-contains code for processing and visualizing soccer match data using the Floodlight dataset.
-The analysis is presented in Jupyter Notebooks for interactive exploration.
-
 ## Project Structure
 
 - `data_processing.py`: Functions for loading and processing met data, event data, and position data.
