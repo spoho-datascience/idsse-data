@@ -46,3 +46,10 @@ year = {2024}
 }
 ```
 ---
+
+## Funding
+This project has been kindly supported by the [Institute of Exercise Training and Sport
+Informatics](https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/) at the German Sport
+University Cologne under supervision of Prof. Daniel Memmert. Funding was provided by the 
+[German Research Foundation](https://www.dfg.de/en) 
+([floodlight](https://gepris.dfg.de/gepris/projekt/522904388?context=projekt&task=showDetail&id=522904388&)).
