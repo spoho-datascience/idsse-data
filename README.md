@@ -1,7 +1,7 @@
 # An integrated dataset of synchronized spatiotemporal and event data in elite soccer
 
 This is the official repository for the paper: 
->Bassek, M. Müller-Budack, E., Ewerth, R., Weber, H., Rein, R., Memmert, D. (2024). An integrated dataset of
+>Bassek, M., Rein, R., Weber, H., Memmert, D. (2024). An integrated dataset of
 > synchronized spatiotemporal and event data in elite soccer. In submission.
 
 ## Project Structure
