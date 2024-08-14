@@ -40,7 +40,7 @@ when using this dataset by
 @article{BassekDataset,
 author = {Bassek, Manuel and Müller-Budack, Eric and Ewerth, Ralph and Weber, Henrik and Rein, Robert and Memmert,
 Daniel},
-journal = {In Submission}
+journal = {In Submission},
 title = {An integrated dataset of synchronized spatiotemporal and event data in elite soccer},
 year = {2024}
 }
